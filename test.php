@@ -10,4 +10,8 @@
       $logo = "t_".$logo;
     }
   }
+  testst
+  tsets
+  tstst
+  tsts
 ?>
